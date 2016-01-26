@@ -1,0 +1,17 @@
+Logging in build 2015.0.2.4 started at: Tue Dec  1 18:01:12 2015
+========================================
+[00:00:09.376] 18:01:21.593 | Recovery Complete
+[02:52:40.350] 20:53:52.567 | Beginning SaveAs of 'Website-1' to file '/Users/sha6/Documents/Website-1.muse' highest UID:222
+[02:52:41.880] 20:53:54.097 | SaveAs complete for file '/Users/sha6/Documents/Website-1.muse' file size:1114112 mod Date:Tue Dec 1 20:53:54 GMT+0800 2015 highest UID:222
+[02:54:20.631] 20:55:32.849 | Beginning SaveAs of 'Website-1' to file '/Users/sha6/Desktop/Website-1.muse' highest UID:222
+[02:54:22.120] 20:55:34.337 | SaveAs complete for file '/Users/sha6/Desktop/Website-1.muse' file size:1114112 mod Date:Tue Dec 1 20:55:34 GMT+0800 2015 highest UID:222
+[02:55:27.040] 20:56:39.258 | HTMLExport Website-1(1 pages) to 'test.com' completed with 2 warnings.
+[02:55:27.041] 20:56:39.259 | 91027:Form Home Form is configured with an email address of e0001339@u.nus.edu, which does not match the server name test.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on test.com and try again.
+[02:55:27.041] 20:56:39.259 | 91027:Form Home Form is configured with an email address of e0001339@u.nus.edu, which does not match the server name test.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on test.com and try again.
+[03:05:36.781] 21:06:48.999 | Beginning Save for file '/Users/sha6/Desktop/Website-1.muse' highest UID:222
+[03:05:38.524] 21:06:50.742 | Save complete for file '/Users/sha6/Desktop/Website-1.muse' file size:1114112 mod Date:Tue Dec 1 21:06:50 GMT+0800 2015 highest UID:222
+[03:05:38.991] 21:06:51.209 | Quitting Application after 185.5 minutes. Called by: 
+
+==========
+Logging ended at: Tue Dec  1 21:06:53 2015
+
